@@ -1,0 +1,15 @@
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\bin\Debug\net6.0\TDE-Fila.exe
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\bin\Debug\net6.0\TDE-Fila.deps.json
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\bin\Debug\net6.0\TDE-Fila.runtimeconfig.json
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\bin\Debug\net6.0\TDE-Fila.dll
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\bin\Debug\net6.0\ref\TDE-Fila.dll
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\bin\Debug\net6.0\TDE-Fila.pdb
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\TDE-Fila.csproj.AssemblyReference.cache
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\TDE-Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\TDE-Fila.AssemblyInfoInputs.cache
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\TDE-Fila.AssemblyInfo.cs
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\TDE-Fila.csproj.CoreCompileInputs.cache
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\TDE-Fila.dll
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\ref\TDE-Fila.dll
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\TDE-Fila.pdb
+C:\Users\Murilo cristiano\Desktop\gith1\TDE-Fila\obj\Debug\net6.0\TDE-Fila.genruntimeconfig.cache
